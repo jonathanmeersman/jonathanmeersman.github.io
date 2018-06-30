@@ -8118,6 +8118,134 @@ body {
 .cid-qMjP5hKXTw .card-wrapper {
   height: 100%;
 }
+.cid-qWt2468gth {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qWt2468gth h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qWt2468gth p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWt2468gth .card-box {
+  padding-top: 2rem;
+}
+.cid-qWt2468gth .card-wrapper {
+  height: 100%;
+}
+.cid-qWt37RoELH {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qWt37RoELH h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qWt37RoELH p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWt37RoELH .card-box {
+  padding-top: 2rem;
+}
+.cid-qWt37RoELH .card-wrapper {
+  height: 100%;
+}
+.cid-qWt3xcPVyD {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: #ffffff;
+}
+.cid-qWt3xcPVyD .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qWt3xcPVyD .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qWt3xcPVyD .media-container-row .img-item .img-cont {
+  position: relative;
+  overflow: hidden;
+}
+.cid-qWt3xcPVyD .media-container-row .img-item .img-cont img {
+  width: 100%;
+}
+.cid-qWt3xcPVyD .media-container-row .img-item .img-cont .img-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qWt3xcPVyD .media-container-row .img-item .img-cont .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qWt3xcPVyD .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qWt3xcPVyD .img-item {
+    width: 100% !important;
+  }
+  .cid-qWt3xcPVyD .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
+.cid-qWt4aEkkqQ {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qWt4aEkkqQ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qWt4aEkkqQ p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWt4aEkkqQ .card-box {
+  padding-top: 2rem;
+}
+.cid-qWt4aEkkqQ .card-wrapper {
+  height: 100%;
+}
+.cid-qWt4b8kE9C {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qWt4b8kE9C h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qWt4b8kE9C p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qWt4b8kE9C .card-box {
+  padding-top: 2rem;
+}
+.cid-qWt4b8kE9C .card-wrapper {
+  height: 100%;
+}
 .cid-qMjPxmP6OV {
   padding-top: 0px;
   padding-bottom: 120px;
@@ -8241,6 +8369,70 @@ body {
     width: 100% !important;
   }
   .cid-qMjO4xTk2D .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
+.cid-qWt1agSQA9 {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qWt1agSQA9 .mbr-text,
+.cid-qWt1agSQA9 blockquote {
+  color: #767676;
+}
+.cid-qWt1agSQA9 .mbr-text B {
+  color: #232323;
+}
+.cid-qWt1agSQA9 .mbr-text {
+  text-align: center;
+  color: #232323;
+}
+.cid-qWsYAgm2UJ {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-qWsYAgm2UJ .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qWsYAgm2UJ .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qWsYAgm2UJ .media-container-row .img-item .img-cont {
+  position: relative;
+  overflow: hidden;
+}
+.cid-qWsYAgm2UJ .media-container-row .img-item .img-cont img {
+  width: 100%;
+}
+.cid-qWsYAgm2UJ .media-container-row .img-item .img-cont .img-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qWsYAgm2UJ .media-container-row .img-item .img-cont .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qWsYAgm2UJ .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qWsYAgm2UJ .img-item {
+    width: 100% !important;
+  }
+  .cid-qWsYAgm2UJ .img-item.item1 {
     width: 100%;
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
